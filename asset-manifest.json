@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/junie-match-game/static/css/main.b4082506.chunk.css",
+    "main.js": "/junie-match-game/static/js/main.9f6d3b88.chunk.js",
+    "main.js.map": "/junie-match-game/static/js/main.9f6d3b88.chunk.js.map",
+    "runtime-main.js": "/junie-match-game/static/js/runtime-main.4c383bb9.js",
+    "runtime-main.js.map": "/junie-match-game/static/js/runtime-main.4c383bb9.js.map",
+    "static/js/2.2a1ef863.chunk.js": "/junie-match-game/static/js/2.2a1ef863.chunk.js",
+    "static/js/2.2a1ef863.chunk.js.map": "/junie-match-game/static/js/2.2a1ef863.chunk.js.map",
+    "index.html": "/junie-match-game/index.html",
+    "static/css/main.b4082506.chunk.css.map": "/junie-match-game/static/css/main.b4082506.chunk.css.map",
+    "static/js/2.2a1ef863.chunk.js.LICENSE.txt": "/junie-match-game/static/js/2.2a1ef863.chunk.js.LICENSE.txt",
+    "static/media/fart.3f10a284.png": "/junie-match-game/static/media/fart.3f10a284.png",
+    "static/media/nap.a7cb47aa.png": "/junie-match-game/static/media/nap.a7cb47aa.png",
+    "static/media/profile.069bef83.png": "/junie-match-game/static/media/profile.069bef83.png",
+    "static/media/side.3fc9386d.png": "/junie-match-game/static/media/side.3fc9386d.png",
+    "static/media/sleep.2b6973a2.png": "/junie-match-game/static/media/sleep.2b6973a2.png",
+    "static/media/sweater.8fb53136.png": "/junie-match-game/static/media/sweater.8fb53136.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c383bb9.js",
+    "static/js/2.2a1ef863.chunk.js",
+    "static/css/main.b4082506.chunk.css",
+    "static/js/main.9f6d3b88.chunk.js"
+  ]
+}
